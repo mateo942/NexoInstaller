@@ -1,10 +1,6 @@
 ﻿using InsERT.Mox.Launcher;
 using Nexo.Installer.Helpers;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Nexo.Installer.Command.Install
 {
@@ -44,7 +40,8 @@ namespace Nexo.Installer.Command.Install
 
                 _logger.Info("Zapisywanie");
                 sqldb.WriteDeploymentManifest(dm, true);
-            } else
+            }
+            else
             {
                 _logger.Info("Rozwiązanie jest już zainstalowane");
             }
