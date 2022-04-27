@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Nexo.Installer.Command.Pack
 {
-    [Verb("pack", HelpText = "Spakuj rozwiązanie włąsne")]
+    [Verb("pack", HelpText = "Spakuj rozwiązanie własne")]
     public class PackOptions
     {
         [Option('s', Required = true, HelpText = "Folder zawierający pliki rozwiązania")]
