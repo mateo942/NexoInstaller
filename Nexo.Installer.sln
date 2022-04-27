@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexo.Installer", "Nexo.Installer\Nexo.Installer.csproj", "{B713EB50-619D-41BC-9D17-F584B2DFB21D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43C329D4-EB81-42BB-B2E6-0297D8F78DF3}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B713EB50-619D-41BC-9D17-F584B2DFB21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B713EB50-619D-41BC-9D17-F584B2DFB21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B713EB50-619D-41BC-9D17-F584B2DFB21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B713EB50-619D-41BC-9D17-F584B2DFB21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BFDFF2-9294-4EBD-8F8F-348300DF1A0E}
+	EndGlobalSection
+EndGlobal
