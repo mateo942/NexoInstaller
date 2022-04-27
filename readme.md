@@ -8,6 +8,7 @@ Aby uruchomiæ narzêdzie potrzebujesz:
 
 * .Net Framework 4.7.1
 * InsERT Nexo (https://www.insert.com.pl/programy_dla_firm/insert_nexo/nexo_pro.html)
+* Nexo SDK
 
 
 ## U¿ycie
